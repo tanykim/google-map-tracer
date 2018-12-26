@@ -1,0 +1,8 @@
+# Set timezone, for example: 'America/Los_Angeles'
+# Refer https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+DEFAULT_TIMEZONE = '<ADD_TIMEZONE_HERE>'
+
+# home latitude and longitude with 7 decimals of precision
+LAT = <ADD_LATITUDE>
+LON = <ADD_LONGITUDE>
